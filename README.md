@@ -50,4 +50,4 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/habit-tracker.git
+git clone https://github.com/vaseninkirill32-boop.github.io/habit-tracker.git
